@@ -1,0 +1,124 @@
+{
+  "movies": [
+    {
+      "id": 0,
+      "title": "HIDDEN FIGURES",
+      "date": "Now Playing",
+      "image": "http://s3.foxmovies.com/foxmovies/production/films/123/images/feature/home-page-feature-image-front-main-stage-1.jpg",
+      "smallImage":"http://s3.foxmovies.com/foxmovies/production/films/123/images/feature/home-page-feature-thumbnail-image-front-featured-films-slider-2.jpg",
+      "options": [
+        "http://www.foxmovies.com/movies/hidden-figures#tickets",
+        "https://www.youtube.com/watch?v=5wfrDhgUMGI",
+        "http://www.foxmovies.com/movies/hidden-figures"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "A CURE FOR WELLNESS",
+      "date": "February 17, 2017",
+      "image": "http://s3.foxmovies.com/foxmovies/production/films/131/images/feature/home-page-feature-image-front-main-stage-1.jpg",
+      "smallImage":"http://s3.foxmovies.com/foxmovies/production/films/131/images/feature/home-page-feature-thumbnail-image-front-featured-films-slider-2.jpg",
+      "options": [
+        null,
+        "https://www.youtube.com/watch?v=JF1rLFCdewU",
+        "http://www.foxmovies.com/movies/a-cure-for-wellness"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "LOGAN",
+      "date": "March 3, 2017",
+      "image": "http://s3.foxmovies.com/foxmovies/production/films/132/images/feature/home-page-feature-image-front-main-stage-1.jpg",
+      "smallImage":"http://s3.foxmovies.com/foxmovies/production/films/132/images/feature/home-page-feature-thumbnail-image-front-featured-films-slider-3.jpg",
+      "options": [
+        null,
+        "https://www.youtube.com/watch?v=RH3OxVFvTeg",
+        "http://www.foxmovies.com/movies/logan"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "THE BOSS BABY",
+      "date": "March 31, 2017",
+      "image": "http://s3.foxmovies.com/foxmovies/production/films/130/images/feature/home-page-feature-image-front-main-stage-1.jpg",
+      "smallImage":"http://s3.foxmovies.com/foxmovies/production/films/130/images/feature/home-page-feature-thumbnail-image-front-featured-films-slider-4.jpg",
+      "options": [
+        null,
+        null,
+        "http://www.foxmovies.com/movies/the-boss-baby"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "SNATCHED",
+      "date": "May 12, 2017",
+      "image": "http://s3.foxmovies.com/foxmovies/production/films/134/images/feature/home-page-feature-image-front-main-stage-1.jpg",
+      "smallImage":"http://s3.foxmovies.com/foxmovies/production/films/134/images/feature/home-page-feature-thumbnail-image-front-featured-films-slider-2.jpg",
+      "options": [
+        null,
+        "https://www.youtube.com/watch?v=PsBWnst8f7w",
+        "http://www.foxmovies.com/movies/snatched"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "ALIEN: COVENANT",
+      "date": "May 19, 2017",
+      "image": "http://s3.foxmovies.com/foxmovies/production/films/135/images/feature/home-page-feature-image-front-main-stage-1.jpg",
+      "smallImage":"http://s3.foxmovies.com/foxmovies/production/films/135/images/feature/home-page-feature-thumbnail-image-front-featured-films-slider-2.jpg",
+      "options": [
+        null,
+        "https://www.youtube.com/watch?v=H0VW6sg50Pk",
+        "http://www.foxmovies.com/movies/alien-covenant"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "WAR FOR THE PLANET OF THE APES",
+      "date": "July 14, 2017",
+      "image": "http://s3.foxmovies.com/foxmovies/production/films/113/images/feature/home-page-feature-image-front-main-stage-2.jpg",
+      "smallImage":"http://s3.foxmovies.com/foxmovies/production/films/113/images/feature/home-page-feature-thumbnail-image-front-featured-films-slider-5.jpg",
+      "options": [
+        null,
+        "https://www.youtube.com/watch?v=UEP1Mk6Un98",
+        "http://www.foxmovies.com/movies/war-for-the-planet-of-the-apes"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "ASSASSIN'S CREED",
+      "date": "Now Playing",
+      "image": "http://s3.foxmovies.com/foxmovies/production/films/111/images/feature/home-page-feature-image-front-main-stage-2.jpg",
+      "smallImage":"http://s3.foxmovies.com/foxmovies/production/films/111/images/feature/home-page-feature-thumbnail-image-front-featured-films-slider-4.jpg",
+      "options": [
+        "http://www.foxmovies.com/movies/assassins-creed#tickets",
+        "https://www.youtube.com/watch?v=xLBZ1_J1xvM",
+        "http://www.foxmovies.com/movies/assassins-creed"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "WHY HIM ?",
+      "date": "Now Playing",
+      "image": "http://s3.foxmovies.com/foxmovies/production/films/128/images/feature/home-page-feature-image-front-main-stage-1.jpg",
+      "smallImage":"http://s3.foxmovies.com/foxmovies/production/films/128/images/feature/home-page-feature-thumbnail-image-front-featured-films-slider-3.jpg",
+      "options": [
+        "http://www.foxmovies.com/movies/why-him#tickets",
+        "https://www.youtube.com/watch?v=5wfrDhgUMGI",
+        "http://www.foxmovies.com/movies/hidden-figures"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Future Releases",
+      "date": "Coming soon",
+      "image": "http://www.foxmovies.com/images/featured/future-releases-main-stage.jpg",
+      "smallImage":"http://www.foxmovies.com/images/featured/future-releases-main-slider.jpg",
+      "options": [
+        null,
+        null,
+        "http://www.foxmovies.com/future-releases"
+      ]
+    }
+  ]
+}
